@@ -1,5 +1,3 @@
-
-
 REM This file uses 'if' and 'else' statement to create new folder
 
 IF EXIST new_folder (mkdir if_folder)
