@@ -1,0 +1,8 @@
+sub_task 1
+string manipulation
+
+sub_task 2
+maths operations
+
+sub_task 3
+if..elif..else
