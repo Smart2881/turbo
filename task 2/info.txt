@@ -1,0 +1,8 @@
+sub_task 1
+practice window cmd and terminal commands
+
+sub_task 2
+input() and print() functions
+
+sub_task 3
+data types and conversion
